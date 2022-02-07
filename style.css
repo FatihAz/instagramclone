@@ -15,4 +15,29 @@
 }
 .a{
     text-decoration: none;
+    display: flex;
+    flex-direction: column;
+}
+.rightbutton{
+    color: #0095f6;
+}
+
+.rightbottom{
+    display: flex;
+    justify-content:space-evenly;
+}
+.onerilen{
+    display: flex;
+    justify-content: space-between;
+}
+
+.onerilenimg{
+    height: 32px;
+    width: 32px;
+    border-radius: 50%;
+}
+
+.ustsagicon{
+    width: 24px;
+    height: 24px;
 }
