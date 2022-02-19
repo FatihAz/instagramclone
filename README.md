@@ -1,1 +1,1 @@
-# [Instagram Clone](https://fatihaz.github.io/instagramclone/)
+### [Instagram Clone](https://fatihaz.github.io/instagramclone/)
